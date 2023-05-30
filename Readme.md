@@ -23,6 +23,13 @@
 - CSS Display Properties
 - JavaScript DOM
 
+## Colors
+
+- #f63232
+- #f4f4f4 for background of the navbar and background of contact section
+- #ffffff
+- #4b4b4b for link texts and contact section text color
+
 ## Useful Resources
 
 - [w3schools]
@@ -35,3 +42,5 @@
   [Gameloft Site]: https://gameloft-enybc.netlify.app/
   [w3schools]: https://www.w3schools.com/
   [Javascript Tutorial]: https://www.javascripttutorial.net/
+
+-
